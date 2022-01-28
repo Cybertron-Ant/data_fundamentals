@@ -15,4 +15,6 @@ optional fourth argument is the second column(I) of the selected range
 
 optional fifth argument is a Boolean(true/false), with "true" meaning to sort the second column in ascending order
 
+locate outliers and correct all errors
+
 
